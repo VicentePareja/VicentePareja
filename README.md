@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **parejavice@gmail.com**
 - 📄 Know about my experiences [CVenglish](CVenglish)
-- 📄 Conoce Acerca de mi experiencia [CVespañol](CVespañol)
+- 📄 Conoce acerca de mi experiencia [CVespañol](CVespañol)
 
 - ⚡ Fun fact **I love UFC**
 
