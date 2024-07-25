@@ -5,9 +5,13 @@
 
 - 🌱 I’m currently learning **Next.js and Nest.js**
 
+
+
 - 💬 Ask me about **python, C# or pattern designs.**
 
 - 📫 How to reach me **parejavice@gmail.com**
+- 📄 Know about my experiences [CVenglish](CVenglish)
+- 📄 Conoce acerca de mi experiencia [CVespañol](CVespañol)
 
 - ⚡ Fun fact **I love UFC**
 
