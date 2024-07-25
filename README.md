@@ -10,8 +10,8 @@
 - 💬 Ask me about **python, C# or pattern designs.**
 
 - 📫 How to reach me **parejavice@gmail.com**
-- 📄 Know about my experiences [CVenglish](CVenglish)
-- 📄 Conoce acerca de mi experiencia [CVespañol](CVespañol)
+- 📄 Know about my experiences [CVenglish](CVenglish/CVenglish.pdf)
+- 📄 Conoce acerca de mi experiencia [CVespañol](CVespañol/CVespañol.pdf)
 
 - ⚡ Fun fact **I love UFC**
 
