@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vicente Pareja</h1>
 <h3 align="center">A passionate full stack developer from Chile</h3>
 
-- 🔭 I’m currently working on [Belli]((https://www.belli.ai/))
+- 🔭 I’m currently working on [Belli](https://www.belli.ai/)
 
 - 🌱 I’m currently learning **automations**
 
 - 💬 Ask me about **python and software architecture.**
 
 - 📫 How to reach me **parejavice@gmail.com**
-- 📄 Know about my experiences [Linkedin]((https://www.linkedin.com/in/vicentepareja/))
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/vicentepareja/)
 
 - ⚡ Fun fact **I love UFC**
 
