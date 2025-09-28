@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vicente Pareja</h1>
 <h3 align="center">A passionate full stack developer from Chile</h3>
 
-- 🔭 I’m currently working on [CoBox](https://github.com/CoBoxChile)
+- 🔭 I’m currently working on [Belli]((https://www.belli.ai/))
 
-- 🌱 I’m currently learning **Next.js and Nest.js**
+- 🌱 I’m currently learning **automations**
 
-
-
-- 💬 Ask me about **python, C# or pattern designs.**
+- 💬 Ask me about **python and software architecture.**
 
 - 📫 How to reach me **parejavice@gmail.com**
-- 📄 Know about my experiences [CVenglish](CVenglish/CVenglish.pdf)
-- 📄 Conoce acerca de mi experiencia [CVespañol](CVespañol/CVespañol.pdf)
+- 📄 Know about my experiences [Linkedin]((https://www.linkedin.com/in/vicentepareja/))
 
 - ⚡ Fun fact **I love UFC**
 
